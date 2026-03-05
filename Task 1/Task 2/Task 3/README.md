@@ -1,4 +1,4 @@
-# Task 2 - Password Generator
+# Task 3 - Password Generator
 
 ## Description
 This is a simple password generator program developed using Python.
