@@ -1,4 +1,4 @@
-# Task 3 - Rock Paper Scissors Game
+# Task 2 - Rock Paper Scissors Game
 
 ## Description
 This is a simple Rock Paper Scissors game developed using Python.
